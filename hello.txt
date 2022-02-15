@@ -4,3 +4,11 @@ timon and pumba
 
 Hi I'm Vikash Basant from Samastipur bihar
 My hobbies is typing...
+
+
+
+git add remote origin http://github.com/vikashbasant/learningGit.git
+
+git branch -M main
+
+git push -u origin main
